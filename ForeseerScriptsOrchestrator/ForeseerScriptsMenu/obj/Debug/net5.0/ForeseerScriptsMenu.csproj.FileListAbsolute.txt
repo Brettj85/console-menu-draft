@@ -1,0 +1,16 @@
+C:\Users\Naxas\Desktop\menusystem\ForeseerScriptsOrchestrator\ForeseerScriptsMenu\bin\Debug\net5.0\ForeseerScriptsMenu.exe
+C:\Users\Naxas\Desktop\menusystem\ForeseerScriptsOrchestrator\ForeseerScriptsMenu\bin\Debug\net5.0\ForeseerScriptsMenu.deps.json
+C:\Users\Naxas\Desktop\menusystem\ForeseerScriptsOrchestrator\ForeseerScriptsMenu\bin\Debug\net5.0\ForeseerScriptsMenu.runtimeconfig.json
+C:\Users\Naxas\Desktop\menusystem\ForeseerScriptsOrchestrator\ForeseerScriptsMenu\bin\Debug\net5.0\ForeseerScriptsMenu.runtimeconfig.dev.json
+C:\Users\Naxas\Desktop\menusystem\ForeseerScriptsOrchestrator\ForeseerScriptsMenu\bin\Debug\net5.0\ForeseerScriptsMenu.dll
+C:\Users\Naxas\Desktop\menusystem\ForeseerScriptsOrchestrator\ForeseerScriptsMenu\bin\Debug\net5.0\ref\ForeseerScriptsMenu.dll
+C:\Users\Naxas\Desktop\menusystem\ForeseerScriptsOrchestrator\ForeseerScriptsMenu\bin\Debug\net5.0\ForeseerScriptsMenu.pdb
+C:\Users\Naxas\Desktop\menusystem\ForeseerScriptsOrchestrator\ForeseerScriptsMenu\obj\Debug\net5.0\ForeseerScriptsMenu.csprojAssemblyReference.cache
+C:\Users\Naxas\Desktop\menusystem\ForeseerScriptsOrchestrator\ForeseerScriptsMenu\obj\Debug\net5.0\ForeseerScriptsMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naxas\Desktop\menusystem\ForeseerScriptsOrchestrator\ForeseerScriptsMenu\obj\Debug\net5.0\ForeseerScriptsMenu.AssemblyInfoInputs.cache
+C:\Users\Naxas\Desktop\menusystem\ForeseerScriptsOrchestrator\ForeseerScriptsMenu\obj\Debug\net5.0\ForeseerScriptsMenu.AssemblyInfo.cs
+C:\Users\Naxas\Desktop\menusystem\ForeseerScriptsOrchestrator\ForeseerScriptsMenu\obj\Debug\net5.0\ForeseerScriptsMenu.csproj.CoreCompileInputs.cache
+C:\Users\Naxas\Desktop\menusystem\ForeseerScriptsOrchestrator\ForeseerScriptsMenu\obj\Debug\net5.0\ForeseerScriptsMenu.dll
+C:\Users\Naxas\Desktop\menusystem\ForeseerScriptsOrchestrator\ForeseerScriptsMenu\obj\Debug\net5.0\ref\ForeseerScriptsMenu.dll
+C:\Users\Naxas\Desktop\menusystem\ForeseerScriptsOrchestrator\ForeseerScriptsMenu\obj\Debug\net5.0\ForeseerScriptsMenu.pdb
+C:\Users\Naxas\Desktop\menusystem\ForeseerScriptsOrchestrator\ForeseerScriptsMenu\obj\Debug\net5.0\ForeseerScriptsMenu.genruntimeconfig.cache
